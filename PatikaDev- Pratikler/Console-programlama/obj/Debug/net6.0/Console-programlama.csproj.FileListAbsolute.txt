@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\bin\Debug\net6.0\Console-programlama.exe
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\bin\Debug\net6.0\Console-programlama.deps.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\bin\Debug\net6.0\Console-programlama.runtimeconfig.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\bin\Debug\net6.0\Console-programlama.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\bin\Debug\net6.0\Console-programlama.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\obj\Debug\net6.0\Console-programlama.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\obj\Debug\net6.0\Console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\obj\Debug\net6.0\Console-programlama.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\obj\Debug\net6.0\Console-programlama.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\obj\Debug\net6.0\Console-programlama.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\obj\Debug\net6.0\Console-programlama.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\obj\Debug\net6.0\refint\Console-programlama.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\obj\Debug\net6.0\Console-programlama.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\obj\Debug\net6.0\Console-programlama.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Console-programlama\obj\Debug\net6.0\ref\Console-programlama.dll
