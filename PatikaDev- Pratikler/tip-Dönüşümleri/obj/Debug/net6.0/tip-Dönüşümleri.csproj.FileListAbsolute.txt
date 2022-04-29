@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\bin\Debug\net6.0\tip-Dönüşümleri.exe
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\bin\Debug\net6.0\tip-Dönüşümleri.deps.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\bin\Debug\net6.0\tip-Dönüşümleri.runtimeconfig.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\bin\Debug\net6.0\tip-Dönüşümleri.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\bin\Debug\net6.0\tip-Dönüşümleri.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\obj\Debug\net6.0\tip-Dönüşümleri.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\obj\Debug\net6.0\tip-Dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\obj\Debug\net6.0\tip-Dönüşümleri.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\obj\Debug\net6.0\tip-Dönüşümleri.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\obj\Debug\net6.0\tip-Dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\obj\Debug\net6.0\tip-Dönüşümleri.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\obj\Debug\net6.0\refint\tip-Dönüşümleri.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\obj\Debug\net6.0\tip-Dönüşümleri.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\obj\Debug\net6.0\tip-Dönüşümleri.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\tip-Dönüşümleri\obj\Debug\net6.0\ref\tip-Dönüşümleri.dll
