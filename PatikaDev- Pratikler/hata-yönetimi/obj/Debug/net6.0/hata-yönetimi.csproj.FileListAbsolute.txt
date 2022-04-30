@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\bin\Debug\net6.0\hata-yönetimi.exe
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\bin\Debug\net6.0\hata-yönetimi.deps.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\bin\Debug\net6.0\hata-yönetimi.runtimeconfig.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\bin\Debug\net6.0\hata-yönetimi.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\bin\Debug\net6.0\hata-yönetimi.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\obj\Debug\net6.0\hata-yönetimi.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\obj\Debug\net6.0\hata-yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\obj\Debug\net6.0\hata-yönetimi.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\obj\Debug\net6.0\hata-yönetimi.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\obj\Debug\net6.0\hata-yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\obj\Debug\net6.0\hata-yönetimi.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\obj\Debug\net6.0\refint\hata-yönetimi.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\obj\Debug\net6.0\hata-yönetimi.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\obj\Debug\net6.0\hata-yönetimi.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\hata-yönetimi\obj\Debug\net6.0\ref\hata-yönetimi.dll
