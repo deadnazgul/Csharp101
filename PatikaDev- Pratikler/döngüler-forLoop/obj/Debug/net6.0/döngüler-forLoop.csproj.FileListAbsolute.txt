@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\bin\Debug\net6.0\döngüler-forLoop.exe
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\bin\Debug\net6.0\döngüler-forLoop.deps.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\bin\Debug\net6.0\döngüler-forLoop.runtimeconfig.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\bin\Debug\net6.0\döngüler-forLoop.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\bin\Debug\net6.0\döngüler-forLoop.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\obj\Debug\net6.0\döngüler-forLoop.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\obj\Debug\net6.0\döngüler-forLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\obj\Debug\net6.0\döngüler-forLoop.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\obj\Debug\net6.0\döngüler-forLoop.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\obj\Debug\net6.0\döngüler-forLoop.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\obj\Debug\net6.0\döngüler-forLoop.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\obj\Debug\net6.0\refint\döngüler-forLoop.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\obj\Debug\net6.0\döngüler-forLoop.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\obj\Debug\net6.0\döngüler-forLoop.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-forLoop\obj\Debug\net6.0\ref\döngüler-forLoop.dll
