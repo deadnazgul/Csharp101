@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\bin\Debug\net6.0\döngüler-WhileForEach.exe
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\bin\Debug\net6.0\döngüler-WhileForEach.deps.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\bin\Debug\net6.0\döngüler-WhileForEach.runtimeconfig.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\bin\Debug\net6.0\döngüler-WhileForEach.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\bin\Debug\net6.0\döngüler-WhileForEach.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\obj\Debug\net6.0\döngüler-WhileForEach.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\obj\Debug\net6.0\döngüler-WhileForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\obj\Debug\net6.0\döngüler-WhileForEach.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\obj\Debug\net6.0\döngüler-WhileForEach.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\obj\Debug\net6.0\döngüler-WhileForEach.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\obj\Debug\net6.0\döngüler-WhileForEach.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\obj\Debug\net6.0\refint\döngüler-WhileForEach.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\obj\Debug\net6.0\döngüler-WhileForEach.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\obj\Debug\net6.0\döngüler-WhileForEach.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\döngüler-WhileForEach\obj\Debug\net6.0\ref\döngüler-WhileForEach.dll
