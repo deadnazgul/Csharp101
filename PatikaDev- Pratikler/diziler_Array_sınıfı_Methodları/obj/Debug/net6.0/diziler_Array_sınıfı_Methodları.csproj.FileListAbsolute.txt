@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\bin\Debug\net6.0\diziler_Array_sınıfı_Methodları.exe
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\bin\Debug\net6.0\diziler_Array_sınıfı_Methodları.deps.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\bin\Debug\net6.0\diziler_Array_sınıfı_Methodları.runtimeconfig.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\bin\Debug\net6.0\diziler_Array_sınıfı_Methodları.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\bin\Debug\net6.0\diziler_Array_sınıfı_Methodları.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\obj\Debug\net6.0\diziler_Array_sınıfı_Methodları.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\obj\Debug\net6.0\diziler_Array_sınıfı_Methodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\obj\Debug\net6.0\diziler_Array_sınıfı_Methodları.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\obj\Debug\net6.0\diziler_Array_sınıfı_Methodları.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\obj\Debug\net6.0\diziler_Array_sınıfı_Methodları.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\obj\Debug\net6.0\diziler_Array_sınıfı_Methodları.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\obj\Debug\net6.0\refint\diziler_Array_sınıfı_Methodları.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\obj\Debug\net6.0\diziler_Array_sınıfı_Methodları.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\obj\Debug\net6.0\diziler_Array_sınıfı_Methodları.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\diziler_Array_sınıfı_Methodları\obj\Debug\net6.0\ref\diziler_Array_sınıfı_Methodları.dll
