@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\bin\Debug\net6.0\METOTLAR.exe
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\bin\Debug\net6.0\METOTLAR.deps.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\bin\Debug\net6.0\METOTLAR.runtimeconfig.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\bin\Debug\net6.0\METOTLAR.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\bin\Debug\net6.0\METOTLAR.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\obj\Debug\net6.0\METOTLAR.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\obj\Debug\net6.0\METOTLAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\obj\Debug\net6.0\METOTLAR.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\obj\Debug\net6.0\METOTLAR.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\obj\Debug\net6.0\METOTLAR.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\obj\Debug\net6.0\METOTLAR.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\obj\Debug\net6.0\refint\METOTLAR.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\obj\Debug\net6.0\METOTLAR.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\obj\Debug\net6.0\METOTLAR.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\METOTLAR\obj\Debug\net6.0\ref\METOTLAR.dll
