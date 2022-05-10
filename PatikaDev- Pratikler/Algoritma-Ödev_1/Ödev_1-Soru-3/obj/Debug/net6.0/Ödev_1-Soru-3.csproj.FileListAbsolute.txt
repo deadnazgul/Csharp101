@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\bin\Debug\net6.0\Ödev_1-Soru-3.exe
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\bin\Debug\net6.0\Ödev_1-Soru-3.deps.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\bin\Debug\net6.0\Ödev_1-Soru-3.runtimeconfig.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\bin\Debug\net6.0\Ödev_1-Soru-3.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\bin\Debug\net6.0\Ödev_1-Soru-3.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\obj\Debug\net6.0\Ödev_1-Soru-3.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\obj\Debug\net6.0\Ödev_1-Soru-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\obj\Debug\net6.0\Ödev_1-Soru-3.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\obj\Debug\net6.0\Ödev_1-Soru-3.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\obj\Debug\net6.0\Ödev_1-Soru-3.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\obj\Debug\net6.0\Ödev_1-Soru-3.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\obj\Debug\net6.0\refint\Ödev_1-Soru-3.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\obj\Debug\net6.0\Ödev_1-Soru-3.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\obj\Debug\net6.0\Ödev_1-Soru-3.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\Ödev_1-Soru-3\obj\Debug\net6.0\ref\Ödev_1-Soru-3.dll

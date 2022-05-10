@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\obj\Debug\net6.0\Algoritma-Ödev_1.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\obj\Debug\net6.0\Algoritma-Ödev_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\obj\Debug\net6.0\Algoritma-Ödev_1.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\obj\Debug\net6.0\Algoritma-Ödev_1.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\obj\Debug\net6.0\Algoritma-Ödev_1.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\bin\Debug\net6.0\Algoritma-Ödev_1.exe
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\bin\Debug\net6.0\Algoritma-Ödev_1.deps.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\bin\Debug\net6.0\Algoritma-Ödev_1.runtimeconfig.json
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\bin\Debug\net6.0\Algoritma-Ödev_1.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\bin\Debug\net6.0\Algoritma-Ödev_1.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\obj\Debug\net6.0\Algoritma-Ödev_1.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\obj\Debug\net6.0\refint\Algoritma-Ödev_1.dll
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\obj\Debug\net6.0\Algoritma-Ödev_1.pdb
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\obj\Debug\net6.0\Algoritma-Ödev_1.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\PatikaDev- Pratikler\Algoritma-Ödev_1\obj\Debug\net6.0\ref\Algoritma-Ödev_1.dll

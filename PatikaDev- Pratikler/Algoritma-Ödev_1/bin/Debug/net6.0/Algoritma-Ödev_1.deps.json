@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Algoritma-Ödev_1/1.0.0": {
+        "runtime": {
+          "Algoritma-Ödev_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algoritma-Ödev_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
