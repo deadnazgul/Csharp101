@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\bin\Debug\net6.0\hazır-metotlar-String.exe
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\bin\Debug\net6.0\hazır-metotlar-String.deps.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\bin\Debug\net6.0\hazır-metotlar-String.runtimeconfig.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\bin\Debug\net6.0\hazır-metotlar-String.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\bin\Debug\net6.0\hazır-metotlar-String.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\obj\Debug\net6.0\hazır-metotlar-String.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\obj\Debug\net6.0\hazır-metotlar-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\obj\Debug\net6.0\hazır-metotlar-String.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\obj\Debug\net6.0\hazır-metotlar-String.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\obj\Debug\net6.0\hazır-metotlar-String.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\obj\Debug\net6.0\hazır-metotlar-String.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\obj\Debug\net6.0\refint\hazır-metotlar-String.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\obj\Debug\net6.0\hazır-metotlar-String.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\obj\Debug\net6.0\hazır-metotlar-String.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\hazır-metotlar-String\obj\Debug\net6.0\ref\hazır-metotlar-String.dll
