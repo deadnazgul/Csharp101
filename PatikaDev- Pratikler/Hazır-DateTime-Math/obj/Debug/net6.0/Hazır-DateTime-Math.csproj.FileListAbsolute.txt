@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\bin\Debug\net6.0\Hazır-DateTime-Math.exe
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\bin\Debug\net6.0\Hazır-DateTime-Math.deps.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\bin\Debug\net6.0\Hazır-DateTime-Math.runtimeconfig.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\bin\Debug\net6.0\Hazır-DateTime-Math.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\bin\Debug\net6.0\Hazır-DateTime-Math.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\obj\Debug\net6.0\Hazır-DateTime-Math.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\obj\Debug\net6.0\Hazır-DateTime-Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\obj\Debug\net6.0\Hazır-DateTime-Math.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\obj\Debug\net6.0\Hazır-DateTime-Math.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\obj\Debug\net6.0\Hazır-DateTime-Math.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\obj\Debug\net6.0\Hazır-DateTime-Math.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\obj\Debug\net6.0\refint\Hazır-DateTime-Math.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\obj\Debug\net6.0\Hazır-DateTime-Math.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\obj\Debug\net6.0\Hazır-DateTime-Math.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Hazır-DateTime-Math\obj\Debug\net6.0\ref\Hazır-DateTime-Math.dll
