@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\bin\Debug\net6.0\generic-List.exe
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\bin\Debug\net6.0\generic-List.deps.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\bin\Debug\net6.0\generic-List.runtimeconfig.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\bin\Debug\net6.0\generic-List.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\bin\Debug\net6.0\generic-List.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\obj\Debug\net6.0\generic-List.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\obj\Debug\net6.0\generic-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\obj\Debug\net6.0\generic-List.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\obj\Debug\net6.0\generic-List.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\obj\Debug\net6.0\generic-List.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\obj\Debug\net6.0\generic-List.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\obj\Debug\net6.0\refint\generic-List.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\obj\Debug\net6.0\generic-List.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\obj\Debug\net6.0\generic-List.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\generic-List\obj\Debug\net6.0\ref\generic-List.dll
