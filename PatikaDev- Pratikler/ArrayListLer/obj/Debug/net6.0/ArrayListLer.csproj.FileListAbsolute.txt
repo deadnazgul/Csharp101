@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\bin\Debug\net6.0\ArrayListLer.exe
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\bin\Debug\net6.0\ArrayListLer.deps.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\bin\Debug\net6.0\ArrayListLer.runtimeconfig.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\bin\Debug\net6.0\ArrayListLer.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\bin\Debug\net6.0\ArrayListLer.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\obj\Debug\net6.0\ArrayListLer.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\obj\Debug\net6.0\ArrayListLer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\obj\Debug\net6.0\ArrayListLer.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\obj\Debug\net6.0\ArrayListLer.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\obj\Debug\net6.0\ArrayListLer.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\obj\Debug\net6.0\ArrayListLer.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\obj\Debug\net6.0\refint\ArrayListLer.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\obj\Debug\net6.0\ArrayListLer.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\obj\Debug\net6.0\ArrayListLer.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\ArrayListLer\obj\Debug\net6.0\ref\ArrayListLer.dll
