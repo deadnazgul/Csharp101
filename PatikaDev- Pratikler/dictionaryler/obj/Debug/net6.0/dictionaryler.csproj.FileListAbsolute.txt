@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\bin\Debug\net6.0\dictionaryler.exe
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\bin\Debug\net6.0\dictionaryler.deps.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\bin\Debug\net6.0\dictionaryler.runtimeconfig.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\bin\Debug\net6.0\dictionaryler.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\bin\Debug\net6.0\dictionaryler.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\obj\Debug\net6.0\dictionaryler.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\obj\Debug\net6.0\dictionaryler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\obj\Debug\net6.0\dictionaryler.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\obj\Debug\net6.0\dictionaryler.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\obj\Debug\net6.0\dictionaryler.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\obj\Debug\net6.0\dictionaryler.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\obj\Debug\net6.0\refint\dictionaryler.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\obj\Debug\net6.0\dictionaryler.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\obj\Debug\net6.0\dictionaryler.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\dictionaryler\obj\Debug\net6.0\ref\dictionaryler.dll
