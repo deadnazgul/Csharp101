@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\bin\Debug\net6.0\sınıf_kavramı.exe
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\bin\Debug\net6.0\sınıf_kavramı.deps.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\bin\Debug\net6.0\sınıf_kavramı.runtimeconfig.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\bin\Debug\net6.0\sınıf_kavramı.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\bin\Debug\net6.0\sınıf_kavramı.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\obj\Debug\net6.0\sınıf_kavramı.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\obj\Debug\net6.0\sınıf_kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\obj\Debug\net6.0\sınıf_kavramı.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\obj\Debug\net6.0\sınıf_kavramı.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\obj\Debug\net6.0\sınıf_kavramı.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\obj\Debug\net6.0\sınıf_kavramı.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\obj\Debug\net6.0\refint\sınıf_kavramı.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\obj\Debug\net6.0\sınıf_kavramı.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\obj\Debug\net6.0\sınıf_kavramı.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\sınıf_kavramı\obj\Debug\net6.0\ref\sınıf_kavramı.dll
