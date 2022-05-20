@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.exe
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.deps.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.runtimeconfig.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\obj\Debug\net6.0\refint\kurucu_metotlar.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\kurucu_metotlar\obj\Debug\net6.0\ref\kurucu_metotlar.dll
