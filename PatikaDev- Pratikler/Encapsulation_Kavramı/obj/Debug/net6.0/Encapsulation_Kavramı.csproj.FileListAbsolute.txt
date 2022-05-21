@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\bin\Debug\net6.0\Encapsulation_Kavramı.exe
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\bin\Debug\net6.0\Encapsulation_Kavramı.deps.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\bin\Debug\net6.0\Encapsulation_Kavramı.runtimeconfig.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\bin\Debug\net6.0\Encapsulation_Kavramı.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\bin\Debug\net6.0\Encapsulation_Kavramı.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\obj\Debug\net6.0\Encapsulation_Kavramı.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\obj\Debug\net6.0\Encapsulation_Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\obj\Debug\net6.0\Encapsulation_Kavramı.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\obj\Debug\net6.0\Encapsulation_Kavramı.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\obj\Debug\net6.0\Encapsulation_Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\obj\Debug\net6.0\Encapsulation_Kavramı.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\obj\Debug\net6.0\refint\Encapsulation_Kavramı.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\obj\Debug\net6.0\Encapsulation_Kavramı.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\obj\Debug\net6.0\Encapsulation_Kavramı.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Encapsulation_Kavramı\obj\Debug\net6.0\ref\Encapsulation_Kavramı.dll
