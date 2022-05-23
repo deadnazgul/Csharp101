@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\bin\Debug\net6.0\struct_Kavramı.exe
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\bin\Debug\net6.0\struct_Kavramı.deps.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\bin\Debug\net6.0\struct_Kavramı.runtimeconfig.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\bin\Debug\net6.0\struct_Kavramı.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\bin\Debug\net6.0\struct_Kavramı.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\obj\Debug\net6.0\struct_Kavramı.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\obj\Debug\net6.0\struct_Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\obj\Debug\net6.0\struct_Kavramı.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\obj\Debug\net6.0\struct_Kavramı.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\obj\Debug\net6.0\struct_Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\obj\Debug\net6.0\struct_Kavramı.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\obj\Debug\net6.0\refint\struct_Kavramı.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\obj\Debug\net6.0\struct_Kavramı.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\obj\Debug\net6.0\struct_Kavramı.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\struct_Kavramı\obj\Debug\net6.0\ref\struct_Kavramı.dll
