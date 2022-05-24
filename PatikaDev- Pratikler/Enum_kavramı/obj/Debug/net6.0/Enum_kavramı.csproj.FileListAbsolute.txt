@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\bin\Debug\net6.0\Enum_kavramı.exe
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\bin\Debug\net6.0\Enum_kavramı.deps.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\bin\Debug\net6.0\Enum_kavramı.runtimeconfig.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\bin\Debug\net6.0\Enum_kavramı.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\bin\Debug\net6.0\Enum_kavramı.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\obj\Debug\net6.0\Enum_kavramı.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\obj\Debug\net6.0\Enum_kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\obj\Debug\net6.0\Enum_kavramı.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\obj\Debug\net6.0\Enum_kavramı.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\obj\Debug\net6.0\Enum_kavramı.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\obj\Debug\net6.0\Enum_kavramı.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\obj\Debug\net6.0\refint\Enum_kavramı.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\obj\Debug\net6.0\Enum_kavramı.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\obj\Debug\net6.0\Enum_kavramı.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Enum_kavramı\obj\Debug\net6.0\ref\Enum_kavramı.dll
