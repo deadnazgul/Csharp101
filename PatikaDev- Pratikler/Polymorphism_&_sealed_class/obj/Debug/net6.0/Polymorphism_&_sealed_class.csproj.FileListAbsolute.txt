@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\bin\Debug\net6.0\Polymorphism_&_sealed_class.exe
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\bin\Debug\net6.0\Polymorphism_&_sealed_class.deps.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\bin\Debug\net6.0\Polymorphism_&_sealed_class.runtimeconfig.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\bin\Debug\net6.0\Polymorphism_&_sealed_class.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\bin\Debug\net6.0\Polymorphism_&_sealed_class.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\obj\Debug\net6.0\Polymorphism_&_sealed_class.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\obj\Debug\net6.0\Polymorphism_&_sealed_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\obj\Debug\net6.0\Polymorphism_&_sealed_class.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\obj\Debug\net6.0\Polymorphism_&_sealed_class.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\obj\Debug\net6.0\Polymorphism_&_sealed_class.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\obj\Debug\net6.0\Polymorphism_&_sealed_class.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\obj\Debug\net6.0\refint\Polymorphism_&_sealed_class.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\obj\Debug\net6.0\Polymorphism_&_sealed_class.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\obj\Debug\net6.0\Polymorphism_&_sealed_class.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Polymorphism_&_sealed_class\obj\Debug\net6.0\ref\Polymorphism_&_sealed_class.dll
