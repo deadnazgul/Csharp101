@@ -1,0 +1,15 @@
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\bin\Debug\net6.0\Abstract_Class_Concept.exe
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\bin\Debug\net6.0\Abstract_Class_Concept.deps.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\bin\Debug\net6.0\Abstract_Class_Concept.runtimeconfig.json
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\bin\Debug\net6.0\Abstract_Class_Concept.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\bin\Debug\net6.0\Abstract_Class_Concept.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\obj\Debug\net6.0\Abstract_Class_Concept.csproj.AssemblyReference.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\obj\Debug\net6.0\Abstract_Class_Concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\obj\Debug\net6.0\Abstract_Class_Concept.AssemblyInfoInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\obj\Debug\net6.0\Abstract_Class_Concept.AssemblyInfo.cs
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\obj\Debug\net6.0\Abstract_Class_Concept.csproj.CoreCompileInputs.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\obj\Debug\net6.0\Abstract_Class_Concept.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\obj\Debug\net6.0\refint\Abstract_Class_Concept.dll
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\obj\Debug\net6.0\Abstract_Class_Concept.pdb
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\obj\Debug\net6.0\Abstract_Class_Concept.genruntimeconfig.cache
+C:\Users\Chuck#\Desktop\patikaDev- Pratikler\Abstract_Class_Concept\obj\Debug\net6.0\ref\Abstract_Class_Concept.dll
